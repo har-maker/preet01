@@ -8,4 +8,4 @@ Shreya upadhyaya
 Harshpreet kaur
 
 ### licence
-This project is under MIT licence.
+This project is under MIT licence

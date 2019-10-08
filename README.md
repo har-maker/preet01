@@ -9,3 +9,6 @@ Harshpreet kaur
 
 ### licence
 This project is under MIT licence
+
+### More about this project  
+[GitHub](https://www.canisbonus.com/home/links/dog-breeds/)
